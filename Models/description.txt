@@ -1,1 +1,0 @@
-Storing models in this folder as to not retrain every time the code is run
